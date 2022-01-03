@@ -1,7 +1,7 @@
 # custom-url-shorten
 Built with node js and mongodb
 
-## Depluyment
+## Deployment
  deployed on [heroku](https://fako-url-shortener.herokuapp.com/)
 
 ## Create a new custom link
